@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mall-coupon" />
         <module name="mall-ware" />
+        <module name="renren-fast" />
         <module name="mall-order" />
         <module name="mall-common" />
         <module name="mall-product" />

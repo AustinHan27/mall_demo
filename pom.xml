@@ -17,6 +17,7 @@
         <module>mall-ware</module>
         <module>mall-gateway</module>
         <module>mall-common</module>
+        <module>renren-fast</module>
     </modules>
     <!--  这里的属性会被子模块继承  -->
     <properties>
@@ -107,7 +108,7 @@
             </dependency>
 
             <dependency>
-                <groupId>cn.hyy.mall</groupId>
+                <groupId>cn.hyy</groupId>
                 <artifactId>mall-common</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
