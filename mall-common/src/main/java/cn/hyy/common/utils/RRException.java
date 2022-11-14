@@ -6,7 +6,7 @@
  * 版权所有，侵权必究！
  */
 
-package cn.hyy.common.exception;
+package cn.hyy.common.utils;
 
 /**
  * 自定义异常

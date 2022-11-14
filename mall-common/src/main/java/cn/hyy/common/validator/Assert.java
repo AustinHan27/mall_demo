@@ -8,7 +8,7 @@
 
 package cn.hyy.common.validator;
 
-import cn.hyy.common.exception.RRException;
+import cn.hyy.common.utils.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**

@@ -1,0 +1,22 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 8.141.161.44:8848
+    alicloud:
+      sms:
+        host: https://fesms.market.alicloudapi.com
+        path: /sms/
+        skin: 1
+        sign: 175622
+        appcode: b0563c23aff8428c97a54d4f7f9e28e5
+      access-key: LTAI5tH1HLpgF4hoh2NderBD
+      secret-key: LkrlT6YX71C9a1srxBE2LIviW8ulRm
+      oss:
+        endpoint: oss-cn-beijing.aliyuncs.com
+        bucket: mall-hello
+  application:
+    name: mall-third-party
+
+server:
+  port: 30000

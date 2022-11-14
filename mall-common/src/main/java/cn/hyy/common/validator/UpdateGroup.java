@@ -6,12 +6,14 @@
  * 版权所有，侵权必究！
  */
 
-package cn.hyy.common.validator.group;
+package cn.hyy.common.validator;
 
 /**
- * 新增数据 Group
+ * 更新数据 Group
  *
  * @author Mark sunlightcs@gmail.com
  */
-public interface AddGroup {
+
+public interface UpdateGroup {
+
 }
